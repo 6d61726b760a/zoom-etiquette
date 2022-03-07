@@ -8,8 +8,11 @@
 - [Guests - After you join](#guests---after-you-join)
 - [Hosts - Before you host](#hosts---before-you-host)
     - [Meeting Templates](#meeting-templates)
+    - [Meeting ids](#meeting-ids)
+    - [Security](#security)
     - [Respecting Guest Privacy](#respecting-guest-privacy)
-    - [Waiting Rooms](#waiting-rooms)
+    - [Sharing Media](#sharing-media)
+    - [Co-hosts](#co-hosts)
     - [Pre-Start Slides](#pre-start-slides)
 - [Hosts - Hosting a meeting](#hosts---hosting-a-meeting)
 - [Other Notes & Links](#notes-and-links)
@@ -84,9 +87,9 @@ You can configure your webcam settings after logging in to zoom:
 - in the main zoom window, click on the gear icon below the profile icon in the top right corner
 - on the right, select the "Audio" tab
 
-Test your audio devices (both speaker and microphone) using the settings provided. You'll want to make sure you can hear clearly, and that your voice is clear when you speak. If you are using a laptop, and are alone, a headset will almost always provide better quality than your laptops built in devices.
+Test your audio devices (both speaker and microphone) using the settings provided. You'll want to make sure you can hear clearly, and that your voice is clear when you speak (use the "test mic" to test recording and playback). If you are using a laptop alone in a quiet room, the laptops internal devices (mic/speaker) _might_ be ok. A headset will almost always provide better quality than your laptops internal devices.
 
-Most computers today should be capable of supressing background noise with no real performance penalty, so enable that if you need to (Note that if you are in a quiet room with the door closed, you probably wont need this).
+Most computers today should be capable of supressing background noise with no real performance penalty, so enable that if you need to (or leave it enabled if is already enabled).
 
 Adjust other settings as desired. Here are some suggestions:
 
@@ -230,7 +233,7 @@ Tips:
 
 ### **Pre-start slides**
 
-Particularly in large meetings, consider starting your meeting with a slide that outlines how guests should interact with the host. The following question should be answered.
+Particularly in large meetings, consider starting your meeting with a slide that outlines how guests should interact with the host. The following questions should be answered.
 
 - should guests have their video on or off?
   - only when talking?
@@ -245,7 +248,7 @@ Particularly in large meetings, consider starting your meeting with a slide that
 
 Put the slide up a minute or two before you intend to start, leave it up for a minute or two after you start, or until you have spent 30 seconds talking about it.
 
-Guests that dont follow the guidelines can be politely reminded privately by co-hosts.
+Co-hosts can remind all guests of these expectations in public chat, or more directly via a direct message to an individual guest. 
 
 <br/><br/>
 
